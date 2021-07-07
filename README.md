@@ -45,5 +45,8 @@ No it will not.
 
 I actually have a repo for this! Its located [here](https://github.com/Speedrunning-Tools/MC-Stronghold-Locator)
 
+# Credit
+Thanks to **[Battlecats59](https://github.com/Battlecats59)** for helping out!
+
 # Other
 If you have any questions, please let me know **@icky#2264**. If you would like to see the whole list of Speedrunning tools, you can go [here]() adn find the list of tools there!
