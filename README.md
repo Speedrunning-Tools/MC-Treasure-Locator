@@ -12,6 +12,7 @@ If you get this result:
 
 `
 C:\Users\Example>python
+
 Python 3.x.x (bunch of other stuff)
 `
 
