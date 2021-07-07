@@ -19,7 +19,7 @@ You succesfully downloaded Python!
 
 If you get a diffrent result, try downloadid Python again, or folow a tutorial on YouTube admireAAA
 
-Now download the Python script [here]()
+Now download the Python script [here](https://github.com/Speedrunning-Tools/MC-Treasure-Locator/archive/refs/heads/master.zip)
 
 After downloading, you should be able to duble click the script and boom, you are ready to find the Treasure Location!
 
