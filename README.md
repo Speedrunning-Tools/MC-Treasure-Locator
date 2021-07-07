@@ -4,7 +4,7 @@ A script that looks for the treasure location in Minecraft. This looks for the 9
 And no, you do not need a seed for this, only the coords on where you are standing.
 
 # Dowloading Instructions (Windows)
-First, you need to have Python 3.x ot above to run the file. (.exe file soon!)
+First, you need to have Python 3.x or above to run the file. (.exe file soon!)
 
 Afer you have downloaded Python, go to command prompt and type `python`
 
@@ -43,7 +43,7 @@ No it will not.
 
 **If this locates the 9 9 area of a chunk, cant you do a Script where it find the 4 4 area of a chunk to find the Stronghold Entrance?**:
 
-I actually have a repo for this! Its located [here]()
+I actually have a repo for this! Its located [here](https://github.com/Speedrunning-Tools/MC-Stronghold-Locator)
 
 # Other
 If you have any questions, please let me know **@icky#2264**. If you would like to see the whole list of Speedrunning tools, you can go [here]() adn find the list of tools there!
