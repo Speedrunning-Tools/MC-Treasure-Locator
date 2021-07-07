@@ -10,11 +10,11 @@ Afer you have downloaded Python, go to command prompt and type `python`
 
 If you get this result:
 
-`
+```
 C:\Users\Example>python
 
 Python 3.x.x (bunch of other stuff)
-`
+```
 
 You succesfully downloaded Python!
 
