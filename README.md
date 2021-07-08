@@ -35,7 +35,7 @@ This script looks for the 9 9 area of the chunk you are standing at. So if you a
 
 **Is this allowed?**:
 
-Yes this is allowed.
+It is being discussed within the MCBE moderators, ill update this when I get an answer.
 
 **Will this have a toll on my preformance?**:
 
